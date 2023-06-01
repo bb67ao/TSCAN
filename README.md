@@ -4,4 +4,4 @@
  <br>
  
 > $GEMINI_DATA_IN1/ means the path of data  <br>
-$GEMINI_DATA_OUT/ means the math of the output dir <br>
+$GEMINI_DATA_OUT/ means the path of the output dir <br>
