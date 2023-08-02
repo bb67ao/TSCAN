@@ -5,3 +5,5 @@
  
 > $GEMINI_DATA_IN1/ means the path of data  <br>
 $GEMINI_DATA_OUT/ means the path of the output dir <br>
+
+We have uploaded pretrain parameter for Gowalla  https://pan.baidu.com/s/1P2sljsZkYNedVRBOR5qTYg   8jdc.
